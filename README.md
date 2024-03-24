@@ -6,7 +6,7 @@ This README documents the necessary steps to get the scDGCN application up and r
 ### What is this repository for? ###
 
 * scDGCN is a novel learning framework for deep structured clustering of single-cell sequencing data. This framework aims to provide researchers with a tool for deep learning and single-cell clustering projects.
-* 1.0.0
+* Version: 1.0.0
 
 ### How do I get set up? ###
 
