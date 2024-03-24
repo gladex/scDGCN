@@ -23,4 +23,4 @@ This README documents the necessary steps to get the scDGCN application up and r
 
 ### Who do I talk to? ###
 
-* If you have any questions or issues related to the repository, you can contact: bh.tang@outlook.com or 221320010002@hhu.edu.cn.
+* If you have any questions or issues related to the repository, you can contact: Dr. Binhua Tang (bh.tang@outlook.com) or Guowei Cheng (221320010002@hhu.edu.cn).
