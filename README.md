@@ -1,8 +1,8 @@
-![](https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg))
+![](https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg?raw=true)
 
 # README #
 
-<img src="./img/figure1-1.jpg" width="1280" height="640">
+<img src="https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg" width="1280" height="640">
 
 This README documents the necessary steps to set up the running environment for scDGCN.
 
