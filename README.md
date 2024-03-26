@@ -2,7 +2,7 @@
 
 # README #
 
-<img src="https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg" width="1280" height="640">
+<img src="https://github.com/gladex/scDGCN/blob/785d8d96561db8eb390ccd84ec09f227074d2dc7/img/figure1-1.jpg" width="1280" height="640">
 
 This README documents the necessary steps to set up the running environment for scDGCN.
 
