@@ -6,7 +6,7 @@ This README documents the necessary steps to set up the running environment for 
 ### What is this repository for? ###
 
 * scDGCN is a novel learning approach for deep structured clustering of single-cell sequencing data. It aims to provide researchers with a deep learning tool for single-cell clustering tasks.
-* Current version: 1.0.0
+* Current version: 1.0
 
 ### How do I get set up? ###
 
