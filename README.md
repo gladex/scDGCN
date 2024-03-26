@@ -2,6 +2,8 @@
 
 # README #
 
+<img src="./img/figure1-1.jpg" width="1280" height="640">
+
 This README documents the necessary steps to set up the running environment for scDGCN.
 
 ### What is this repository for? ###
