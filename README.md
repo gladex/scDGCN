@@ -1,4 +1,4 @@
-![](https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg?raw=true)
+![](https://github.com/gladex/scDGCN/blob/785d8d96561db8eb390ccd84ec09f227074d2dc7/img/figure1-1.jpg)
 
 # README #
 
