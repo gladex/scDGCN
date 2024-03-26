@@ -1,4 +1,4 @@
-![](./img/figure1-1.jpg)
+![](https://github.com/gladex/scDGCN/blob/main/img/figure1-1.jpg))
 
 # README #
 
